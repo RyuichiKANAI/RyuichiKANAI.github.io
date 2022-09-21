@@ -62,12 +62,14 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+career: 
+    title: Career
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Statistical Science
+        university: University College London
+        time: 2019 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +78,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc in Statistical Science
+        university: University College London
+        time: 2016 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,6 +89,14 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: MSc in Applied Physics
+        university: The University of Tokyo
+        time: 2008 - 2011
+      - degree: BSc in Applied Physics
+        university: The University of Tokyo
+        time: 2004 - 2008
+
+
 experiences:
     title: Experiences
     info:
