@@ -76,51 +76,51 @@ experiences:
         details: |
       - role: Deputiy Director
         time: 2017 - 2017
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
             - Structural reforms of the Inspection Bureau, , and 
             - Abolition of the financial inspections manual
             - Cooperation between supervisory and inspection divisions
       - role: Section Chief
         time: 2015 - 2016
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
           Financial Markets Division in Planning and Coordination Bureau.
             - Bullet point
             - Bullet point
       - role: Section Chief
         time: 2014 - 2015
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
           Financial Markets Division in Planning and Coordination Bureau.
             - Bullet point
             - Bullet point
       - role: Section Chief
         time: 2013 - 2014
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
           Financial System Stabilization Planning Office in Planning and Coordination Bureau.
             - Bullet point
             - Bullet point
       - role: Section Chief
         time: 2012 - 2013
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
           Securities Business Division in Supervisory Bureau.
             - Bullet point
             - Bullet point
       - role: Analyst
         time: 2011 - 2012
-        company: Financial Services Agency, the Government of Japan
+        company: Financial Services Agency, the Government of Japan, Tokyo, Japan
         details: |
           Supervisory Planning office in Supervisory Bureau.
             - Bullet point
             - Bullet point
       - role: Research Assistant
         time: 2008 - 2010
-        company: The Institute for Solid State Physics (ISSP) of the University of Tokyo
+        company: The Institute for Solid State Physics of the University of Tokyo, Chiba, Japan
         details: |
-          Supervisory Planning office in Supervisory Bureau.
+          Preparing.
             - Bullet point
             - Bullet point
 
@@ -151,6 +151,26 @@ education:
         university: The University of Tokyo
         time: 2004 - 2008
 
+publications:
+    title: Publications
+    intro: |
+      preparing
+    papers:
+      - title: Robust uncertainty quantification of the volume of tsunami ionospheric holes for the 2011 Tohoku-Oki earthquake: towards low-cost satellite-based tsunami warning systems
+        link: "https://nhess.copernicus.org/articles/22/849/2022/nhess-22-849-2022.html"
+        authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
+        conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, 2022"
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 projects:
     title: Projects
@@ -179,27 +199,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 #skills:
 #    title: Skills &amp; Proficiency
