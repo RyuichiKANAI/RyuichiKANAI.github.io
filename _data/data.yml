@@ -157,6 +157,26 @@ education:
 ######################################################################################################
 
 ######################################################################################################
+publications:
+    title: Publications
+    intro: |
+      preparing
+    papers:
+      - title: "Robust uncertainty quantification of the volume of tsunami ionospheric holes for the 2011 Tohoku-Oki earthquake: towards low-cost satellite-based tsunami warning systems"
+        link: "https://nhess.copernicus.org/articles/22/849/2022/nhess-22-849-2022.html"
+        authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
+        conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, 2022"
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 
         
