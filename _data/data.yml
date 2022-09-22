@@ -167,7 +167,7 @@ publications:
         authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
         conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, (2022)"        
 ######################################################################################################
-education:
+presentation:
     title: Presentation
     info:
       - degree: "The Uncertainty Quantification: Recent Advances in the Mathematics of Information"
