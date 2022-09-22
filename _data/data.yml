@@ -52,7 +52,7 @@ sidebar:
 
 #        - item: Cooking
 #          link:
-
+######################################################################################################
 career-profile:
     title: Career Profile
     summary: |
@@ -62,7 +62,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-
+######################################################################################################
 experiences:
     title: Career
     info:
@@ -126,9 +126,44 @@ experiences:
 
 
 
-
+######################################################################################################
 education:
     title: Education
+    info:
+      - degree: PhD in Statistical Science
+        university: University College London
+        time: 2019 - Present
+        details: |
+          Preparing
+            - Bullet point
+            - Bullet point
+######################################################################################################
+
+######################################################################################################
+publications:
+    title: Publications
+    intro: |
+      preparing
+    papers:
+      - title: Robust uncertainty quantification of the volume of tsunami ionospheric holes for the 2011 Tohoku-Oki earthquake: towards low-cost satellite-based tsunami warning systems
+        link: "https://nhess.copernicus.org/articles/22/849/2022/nhess-22-849-2022.html"
+        authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
+        conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, 2022"
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+######################################################################################################
+
+######################################################################################################
+education:
+    title: Presentation
     info:
       - degree: PhD in Statistical Science
         university: University College London
@@ -150,27 +185,9 @@ education:
       - degree: BSc in Applied Physics
         university: The University of Tokyo
         time: 2004 - 2008
+######################################################################################################
 
-publications:
-    title: Publications
-    intro: |
-      preparing
-    papers:
-      - title: Robust uncertainty quantification of the volume of tsunami ionospheric holes for the 2011 Tohoku-Oki earthquake: towards low-cost satellite-based tsunami warning systems
-        link: "https://nhess.copernicus.org/articles/22/849/2022/nhess-22-849-2022.html"
-        authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
-        conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, 2022"
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+######################################################################################################
 
 projects:
     title: Projects
