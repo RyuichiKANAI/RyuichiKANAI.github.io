@@ -70,57 +70,62 @@ experiences:
         time: 2019 - Present
         company: Alan Turing Institute, London, the U.K.
         details: |
-          There is some previous research showing that anomalies occur in the atmosphere before earthquakes occur. 
-          However, the analysis in those previous studies has not been verified as adequate. If earthquakes can 
-          be predicted, it would be beneficial to many areas; however, if the research is inappropriate, 
-          it can lead to the dissemination of misinformation. Therefore, we have obtained knowledge from Japanese 
-          researchers who have knowledge of earthquakes and from Japanese and British researchers who can 
-          analyze atmospheric data, and we are using statistics to conduct appropriate analysis. 
-          As a person who can use both Japanese and English, I also work as a bridge to connect their knowledge.
       - role: Chief 
         time: 2018 - 2019
         company: NEC Corporation, Tokyo, Japan
         details: |
-          As a member of a team, I analyzed data provided by clients. 
-          For example, there was so much accumulated data that the client was not even able to identify 
-          trends in the survey results. In this case, the customer did not have a specific issue, 
-          so our team decided that it would be meaningful to indicate what geographic trends the questionnaire 
-          could show. Hence, questionnaires were analyzed by natural language processing and then clustering 
-          analysis was conducted to extract regional trends. The reason for this analysis is that our team expected 
-          that the questionnaire results would differ from region to region and that the actions taken by each 
-          branch would not be the same. 
-          I summarized the results of the analyses by the younger colleagues into a document and made revisions 
-          until I received an approval from my boss.
       - role: Deputiy Director
         time: 2017 - 2017
         company: Financial Services Agency, the Government of Japan
         details: |
-          The most difficult part of the job was managing more than 10 subordinates, 
-          as I was concurrently working in three different departments. Since it was impossible to meet 
-          with all subordinates in person every day, I told all subordinates to always report any progress 
-          or problems that arose in their work via e-mail. In ensuring that the team would perform properly, 
-          I believed that it was of primary importance that the members of the team continue to work without 
-          attrition and in good health. On the other hand, because the organization was extremely conservative, 
-          I had seen many instances where such a structure was not realized, thus my team focused on this point. 
-          In order for my subordinates to trust me, not only do I listen to whatever they tell me, but if there 
-          is logical justification for their suggestions, I take the risk of communicating those suggestions to 
-          those in higher positions and making them happen. This risk-taking has led to their trust in me, and 
-          has helped me build a relationship with them, where they are willing to share information without 
-          concealment.
             - Structural reforms of the Inspection Bureau, , and 
             - Abolition of the financial inspections manual
             - Cooperation between supervisory and inspection divisions
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Section Chief
+        time: 2015 - 2016
+        company: Financial Services Agency, the Government of Japan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Financial Markets Division in Planning and Coordination Bureau.
             - Bullet point
             - Bullet point
+      - role: Section Chief
+        time: 2014 - 2015
+        company: Financial Services Agency, the Government of Japan
+        details: |
+          Financial Markets Division in Planning and Coordination Bureau.
+            - Bullet point
+            - Bullet point
+      - role: Section Chief
+        time: 2013 - 2014
+        company: Financial Services Agency, the Government of Japan
+        details: |
+          Financial System Stabilization Planning Office in Planning and Coordination Bureau.
+            - Bullet point
+            - Bullet point
+      - role: Section Chief
+        time: 2012 - 2013
+        company: Financial Services Agency, the Government of Japan
+        details: |
+          Securities Business Division in Supervisory Bureau.
+            - Bullet point
+            - Bullet point
+      - role: Analyst
+        time: 2011 - 2012
+        company: Financial Services Agency, the Government of Japan
+        details: |
+          Supervisory Planning office in Supervisory Bureau.
+            - Bullet point
+            - Bullet point
+      - role: Research Assistant
+        time: 2008 - 2010
+        company: The Institute for Solid State Physics (ISSP) of the University of Tokyo
+        details: |
+          Supervisory Planning office in Supervisory Bureau.
+            - Bullet point
+            - Bullet point
+
+
+
 
 education:
     title: Education
@@ -129,22 +134,14 @@ education:
         university: University College London
         time: 2019 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Preparing
             - Bullet point
             - Bullet point
       - degree: MSc in Statistical Science
         university: University College London
         time: 2016 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Preparing
             - Bullet point
             - Bullet point
       - degree: MSc in Applied Physics
