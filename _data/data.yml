@@ -153,51 +153,11 @@ education:
 ######################################################################################################
 
 ######################################################################################################
-publications:
-    title: Publications
-    intro: |
-      preparing
-    papers:
-      - title: Robust uncertainty quantification of the volume of tsunami ionospheric holes for the 2011 Tohoku-Oki earthquake: towards low-cost satellite-based tsunami warning systems
-        link: "https://nhess.copernicus.org/articles/22/849/2022/nhess-22-849-2022.html"
-        authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
-        conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, 2022"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 ######################################################################################################
 
 ######################################################################################################
-education:
-    title: Presentation
-    info:
-      - degree: The Uncertainty Quantification: Recent Advances in the Mathematics of Information
-        university: Cambridge, the U.K.
-        time: June 2022
-      - degree: The 5th International Workshop of CSES Mission 　　　　 
-        university: Beijing, China
-        time: October 2021
-      - degree: The 30th the International Tsunami Symposium
-        university: Miyagi, Japan
-        time: July 2021
-      - degree: The 12th International Conference of the ERCIM WG on Computational and Methodological Statistics
-        university: London, the U.K.
-        time: December 2019
-      - degree: The 4th International Workshop of China Seismo-Electromagnetic Satellite mission (*Invited Speaker)
-        university: Changsha, China.
-        time: October 2019
-      - degree: Earthquake Prediction Society of Japan (*Invited Speaker)
-        university: Tokyo, Japan
-        time: December 2019
-      - degree: CTR Wilson General Assemblies
-        university: Bath, the U.K.
+
         time: November 2019
       - degree: ISSP Workshop ISSP-CMSI-Nano Project Joint Workshop
         university: Chiba Japan
