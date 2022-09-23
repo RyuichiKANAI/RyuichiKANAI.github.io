@@ -243,31 +243,33 @@ presentation:
 ######################################################################################################
 
 projects:
-    title: Projects
+    title: Media
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: UCL news
+        link: "https://www.ucl.ac.uk/news/2022/apr/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
+        tagline: "Space-based system using GPS satellites could warn of incoming tsunamis."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Yahoo! news US
+        link: "https://www.yahoo.com/news/gps-signals-could-detect-tsunamis-174037027.html"
+        tagline: "GPS signals could detect tsunamis better and faster than seismic sensors."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Prevention web owned by United Nation office for Disaster Risk Reduction
+        link: "https://www.preventionweb.net/news/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
+        tagline: "SPACE-BASED SYSTEM USING GPS SATELLITES COULD WARN OF INCOMING TSUNAMIS"
+
+
+      - title: News Central Site
+        link: "https://newscentral.site/space-based-system-using-gps-satellites-could-warn-of-incoming-tsunamis-sciencedaily/"
+        tagline: "Space-based system using GPS satellites could warn of incoming tsunamis — ScienceDaily"
 
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 #skills:
