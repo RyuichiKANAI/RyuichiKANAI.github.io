@@ -244,10 +244,10 @@ presentation:
 
 projects:
     title: Media
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: UCL news
         link: "https://www.ucl.ac.uk/news/2022/apr/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
@@ -261,15 +261,37 @@ projects:
         link: "https://www.preventionweb.net/news/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
         tagline: "SPACE-BASED SYSTEM USING GPS SATELLITES COULD WARN OF INCOMING TSUNAMIS"
 
-
       - title: News Central Site
         link: "https://newscentral.site/space-based-system-using-gps-satellites-could-warn-of-incoming-tsunamis-sciencedaily/"
         tagline: "Space-based system using GPS satellites could warn of incoming tsunamis — ScienceDaily"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Phys Org
+        link: "https://phys.org/news/2022-04-space-based-gps-satellites-incoming-tsunamis.html"
+        tagline: "Space-based system using GPS satellites could warn of incoming tsunamis."
 
+      - title: My Science
+        link: "https://www.myscience.uk/en/news/2022/space_based_system_using_gps_satellites_could_warn_of_incoming_tsunamis-2022-UCL"
+        tagline: "Space-based system using GPS satellites could warn of incoming tsunamis."
+
+      - title: Eurek Alert
+        link: "https://www.eurekalert.org/news-releases/951124"
+        tagline: "Space-based system using GPS satellites could warn of incoming tsunamis."
+
+      - title: Environmental Network News
+        link: "https://www.enn.com/articles/70222-space-based-system-using-gps-satellites-could-warn-of-incoming-tsunamis"
+        tagline: "Space-Based System Using GPS Satellites Could Warn of Incoming Tsunamis."
+
+      - title: Sohu (in Chinese)
+        link: "https://www.sohu.com/a/544177458_99900743"
+        tagline: "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
+
+      - title: cn Beta (in Chinese)
+        link: "https://www.cnbeta.com/articles/tech/1265937.htm"
+        tagline: "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
+
+      - title: 163.com (in Chinese)
+        link: "https://www.163.com/dy/article/H6M0IHO10511BLFD.html"
+        tagline: "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
 
 
 #skills:
