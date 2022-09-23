@@ -167,6 +167,8 @@ publications:
         authors: Ryuichi Kanai, Masashi Kamogawa, Toshiyasu Nagao, Alan Smith, Serge Guillas
         conference: "Nat. Hazards Earth Syst. Sci., 22, 849–868, (2022)"        
 ######################################################################################################
+
+######################################################################################################
 presentation:
     title: Presentation
     info:
@@ -185,7 +187,8 @@ presentation:
                 Computational and Methodological Statistics
         university: London, the U.K.
         time: December 2019
-      - degree: The 6th conference of Earthquake Prediction Society of Japan (*Invited Speaker)
+      - degree: The 6th conference of Earthquake Prediction Society <br>
+                of Japan (*Invited Speaker)
         university: Tokyo, Japan
         time: December 2019
       - degree: CTR Wilson General Assemblies
@@ -209,13 +212,19 @@ presentation:
                 Quantum States / New Materials
         university: Chiba, Japan
         time: April 2010
-      - degree: CREST 2010 international symposium on physics of quantum technology 
+      - degree: CREST 2010 international symposium on physics of <br>
+                quantum technology 
         university: Tokyo Japan
         time: April 2010
       - degree: The 65th Annual Meeting of the Physical Society of Japan
         university: Okayama, Japan
         time: March 2010
-      - degree: Next generation workshop of condensed matter physics "New material and Energy" 
+      - degree: Next-Generation Integrated Nanoscience Simulation Software <br>
+                4th Open Symposium     
+        university: Chiba, Japan
+        time: March 2010
+      - degree: Next generation workshop of condensed matter physics <br>
+                "New material and Energy" 
         university: Chiba, Japan
         time: March 2010
       - degree: ISSP Workshop Supercomputer Joint Use Activity Report 2009
@@ -227,7 +236,8 @@ presentation:
       - degree: The 64th Annual Meeting of the Physical Society of Japan
         university: Tokyo, Japan.
         time: March 2009
-      - degree: Next-Generation Integrated Nanoscience Simulation Software 3rd Open Symposium
+      - degree: Next-Generation Integrated Nanoscience Simulation Software <br>
+                3rd Open Symposium
         university: Chiba, Japan.
         time: March 2009        
 ######################################################################################################
