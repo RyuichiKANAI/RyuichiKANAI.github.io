@@ -147,9 +147,19 @@ education:
       - degree: MSc in Applied Physics
         university: The University of Tokyo
         time: 2008 - 2011
+        details: |
+          Development of algorithms to calculate entanglement entropy.
+            - Quantum Monte Carlo method
+            - Quantum mechanics
+            - C++
       - degree: BSc in Applied Physics
         university: The University of Tokyo
         time: 2004 - 2008
+        details: |
+          Experiments in semiconductor thin layer fabrication. Verification of luminescence properties of thin layers of GaSb.
+            - Solid-State physics
+            - Band theory
+        
 ######################################################################################################
 
 ######################################################################################################
