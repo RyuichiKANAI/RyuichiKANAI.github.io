@@ -134,16 +134,16 @@ education:
         university: University College London
         time: 2019 - Present
         details: |
-          Preparing
-            - Bullet point
-            - Bullet point
+          Analysis of Disturbances Caused by Acoustic Waves Induced by Tsunamis
+            - INLA-SPDE, Gaussian Process, History Matching, Functional Data Analysis
+            - Python, R
       - degree: MSc in Statistical Science
         university: University College London
         time: 2016 - 2018
         details: |
-          Preparing
-            - Bullet point
-            - Bullet point
+          Analysis of satellite-captured earthquake precursor signals
+            - Functional Data Analysis
+            - Python, R, C++
       - degree: MSc in Applied Physics
         university: The University of Tokyo
         time: 2008 - 2011
