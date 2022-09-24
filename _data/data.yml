@@ -66,8 +66,8 @@ experiences:
         company: Alan Turing Institute, London, the U.K.
         details: |
             I am engaged in applying statistics to analyze physical phenomena and evaluate its uncertainty.
-            - <a href="https://www.turing.ac.uk/research/interest-groups/uncertainty-quantification">Uncertainty quantification</a>
-            - <a href="https://www.turing.ac.uk/research/research-projects/uncertainty-quantification-multi-scale-and-multi-physics-computer-models">Uncertainty quantification of multi-scale and multi-physics computer models</a>
+            - <a href="https://www.turing.ac.uk/research/interest-groups/uncertainty-quantification" target="_blank" rel="noopener noreferrer">Uncertainty quantification</a>
+            - <a href="https://www.turing.ac.uk/research/research-projects/uncertainty-quantification-multi-scale-and-multi-physics-computer-models" target="_blank" rel="noopener noreferrer">Uncertainty quantification of multi-scale and multi-physics computer models</a>
       - role: Chief 
         time: 2018 - 2019
         company: NEC Corporation, Tokyo, Japan
