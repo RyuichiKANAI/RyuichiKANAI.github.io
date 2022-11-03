@@ -329,9 +329,9 @@ projects:
         link: "https://www.cnbeta.com/articles/tech/1265937.htm"
         tagline: "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
 
-      - title: 163.com (in Chinese)
+      - title: 163.com (in Chinese) "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
         link: "https://www.163.com/dy/article/H6M0IHO10511BLFD.html"
-        tagline: "研究发现GPS信号可以比地震传感器更好更快地探测海啸."
+#        tagline: 
 
 
 #skills:
