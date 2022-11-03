@@ -285,51 +285,51 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: UCL news":" Space-based system using GPS satellites could warn of incoming tsunamis.
+      - title: UCL news Space-based system using GPS satellites could warn of incoming tsunamis.
         link: "https://www.ucl.ac.uk/news/2022/apr/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
 #        tagline: 
 
-      - title: Yahoo! news US":" GPS signals could detect tsunamis better and faster than seismic sensors.
+      - title: Yahoo! news US GPS signals could detect tsunamis better and faster than seismic sensors.
         link: "https://www.yahoo.com/news/gps-signals-could-detect-tsunamis-174037027.html"
 #        tagline: 
 
-      - title: Prevention web":" SPACE-BASED SYSTEM USING GPS SATELLITES COULD WARN OF INCOMING TSUNAMIS
+      - title: Prevention web SPACE-BASED SYSTEM USING GPS SATELLITES COULD WARN OF INCOMING TSUNAMIS
         link: "https://www.preventionweb.net/news/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
 #        tagline: 
 
-      - title: News Central Site":" Space-based system using GPS satellites could warn of incoming tsunamis — ScienceDaily
+      - title: News Central Site Space-based system using GPS satellites could warn of incoming tsunamis — ScienceDaily
         link: "https://newscentral.site/space-based-system-using-gps-satellites-could-warn-of-incoming-tsunamis-sciencedaily/"
 #        tagline: 
 
-      - title: Phys Org":" Space-based system using GPS satellites could warn of incoming tsunamis.
+      - title: Phys Org Space-based system using GPS satellites could warn of incoming tsunamis.
         link: "https://phys.org/news/2022-04-space-based-gps-satellites-incoming-tsunamis.html"
 #        tagline: 
 
-      - title: My Science":" Space-based system using GPS satellites could warn of incoming tsunamis.
+      - title: My Science Space-based system using GPS satellites could warn of incoming tsunamis.
         link: "https://www.myscience.uk/en/news/2022/space_based_system_using_gps_satellites_could_warn_of_incoming_tsunamis-2022-UCL"
 #        tagline: 
 
-      - title: Eurek Alert":" Space-based system using GPS satellites could warn of incoming tsunamis.
+      - title: Eurek Alert Space-based system using GPS satellites could warn of incoming tsunamis.
         link: "https://www.eurekalert.org/news-releases/951124"
 "        tagline: 
 
-      - title: Environmental Network News":" "Space-Based System Using GPS Satellites Could Warn of Incoming Tsunamis."
+      - title: Environmental Network News Space-Based System Using GPS Satellites Could Warn of Incoming Tsunamis.
         link: "https://www.enn.com/articles/70222-space-based-system-using-gps-satellites-could-warn-of-incoming-tsunamis"
 #        tagline: 
 
-      - title: Your weather":" New early warning system developed for tsunamis.
+      - title: Your weather New early warning system developed for tsunamis.
         link: "https://www.yourweather.co.uk/news/science/new-early-warning-system-for-tsunamis-gps-satellites.html"
 #        tagline: 
 
-      - title: Sohu (in Chinese)":" 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
+      - title: Sohu (in Chinese) 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
         link: "https://www.sohu.com/a/544177458_99900743"
 #        tagline: 
 
-      - title: cn Beta (in Chinese)":" 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
+      - title: cn Beta (in Chinese) 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
         link: "https://www.cnbeta.com/articles/tech/1265937.htm"
 #        tagline: 
 
-      - title: 163.com (in Chinese)":" 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
+      - title: 163.com (in Chinese) 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
         link: "https://www.163.com/dy/article/H6M0IHO10511BLFD.html"
 #        tagline: 
 
