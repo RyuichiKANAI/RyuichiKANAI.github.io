@@ -285,7 +285,7 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: UCL news Space-based system using GPS satellites could warn of incoming tsunamis.
+      - title: UCL news":" Space-based system using GPS satellites could warn of incoming tsunamis.
         link: "https://www.ucl.ac.uk/news/2022/apr/space-based-system-using-gps-satellites-could-warn-incoming-tsunamis"
 #        tagline: 
 
@@ -329,7 +329,7 @@ projects:
         link: "https://www.cnbeta.com/articles/tech/1265937.htm"
 #        tagline: 
 
-      - title: 163.com (in Chinese) 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
+      - title: 163.com 研究发现GPS信号可以比地震传感器更好更快地探测海啸.
         link: "https://www.163.com/dy/article/H6M0IHO10511BLFD.html"
 #        tagline: 
 
